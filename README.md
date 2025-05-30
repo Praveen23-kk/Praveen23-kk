@@ -3,7 +3,8 @@
 
 
 <div align="center">
-<img src="https://4kwallpapers.com/images/wallpapers/the-lion-king-2560x1440-17403.jpg" width="25%" height="150%" align="right" />
+<img src="https://static.wikia.nocookie.net/anicrossbr/images/a/a8/Vergil_dmc.jpg/revision/latest/scale-to-width-down/340?cb=20160828214614&path-prefix=pt-br" width="25%" height="150%" align="right" />
+
 
 ```
 📊 Exploring ML, Data Cleaning & Big Data Processing

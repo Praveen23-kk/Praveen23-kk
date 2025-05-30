@@ -6,7 +6,6 @@
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" height="150%" align="right" />
 
 ```
-💻 Full-Stack Developer with a passion for Data Engineering
 📊 Exploring ML, Data Cleaning & Big Data Processing
 🔍 Solving DSA problems & working on real-world projects
 ⚙️ Linux power user, automating workflows & system management

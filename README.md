@@ -1,100 +1,149 @@
+# 🌟 Hey there! I'm **K Praveen Kumar** 
+
 <div align="center">
-  <img src="https://media.giphy.com/media/QjJd5S7p8zZ0v8N8Xk/giphy.gif" width="60" />
-  <h1>👋 Hello there! I'm K Praveen Kumar</h1>
-  <h3><i>Data Enthusiast | Full Stack Developer | AI/Big Data Engineering Explorer</i> 🚀</h3>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Enthusiast+%F0%9F%93%8A;Full+Stack+Developer+%F0%9F%92%BB;AI%2FBig+Data+Explorer+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%" alt="Coding"/>
+</div>
+
+---
+
+## 🎯 **About Me**
+
+```yaml
+name: "K Praveen Kumar"
+located_in: "India"
+current_focus: ["Machine Learning", "Data Engineering", "Full Stack Development"]
+learning: ["Big Data Processing", "AI/ML Systems", "Cloud Architecture"]
+hobbies: ["Tech Exploration", "Anime", "Problem Solving"]
+fun_fact: "I turn coffee into code and data into insights ☕➡️💻"
+```
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+---
+
+## ⚡ **Tech Arsenal**
+
+<div align="center">
+
+### 🧠 **Core Programming**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,java,sql" alt="Programming Languages"/>
+</p>
+
+### 🌐 **Web & Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,express" alt="Web Technologies"/>
+</p>
+
+### 🛠️ **Data & ML**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+### ⚙️ **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,postgresql" alt="Tools"/>
+</p>
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+</div>
+
+---
+
+## 🚀 **Current Journey**
+
+<div align="center">
+
+| 🎯 **Focus Areas** | 📚 **Learning** | 🔥 **Interests** |
+|:------------------:|:---------------:|:-----------------:|
+| Data Engineering | Big Data Systems | AI/ML Research |
+| Full Stack Dev | Cloud Architecture | System Design |
+| Problem Solving | DevOps Practices | Open Source |
+
+</div>
+
+---
+
+## 🏆 **Achievements & Highlights**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
+</div>
+
+```mermaid
+graph LR
+    A[🎓 Learning] --> B[💻 Building]
+    B --> C[🚀 Deploying]
+    C --> D[📈 Scaling]
+    D --> A
+    
+    style A fill:#ff9999
+    style B fill:#66b3ff
+    style C fill:#99ff99
+    style D fill:#ffcc99
+```
+
+---
+
+## 🎮 **Fun Zone**
+
+<div align="center">
+
+### 🐍 **Watch the Snake eat my contributions!**
+![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+
+### 💫 **Random Dev Quote**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 **Let's Connect & Collaborate!**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-praveen-kumar-6223aa280)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Praveenk_23)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+### 💬 **"Building the future, one line of code at a time"**
+
 </div>
 
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  
+### ⭐ **If you find my work interesting, consider starring my repositories!**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider"/>
+
+**🎯 Always Learning • 🚀 Always Building • 💡 Always Innovating**
+
+*Last updated: 2025*
+
 </div>
-
----
-
-### **🌱 About Me**
-
--   📊 Diving deep into **Machine Learning**, **Data Cleaning**, and **Big Data Processing**.
--   💻 Sharpening my skills by **solving DSA problems** and building **real-world projects**.
--   🐧 A dedicated **Linux power user**, always automating workflows and managing systems efficiently.
--   🎯 Passionate about crafting **scalable & high-performance applications**.
--   🎮 Beyond code, I love **tech, anime**, and I'm always eager to **learn new things!**
-
----
-
-## **🚀 Tech Stack & Tools**
-
-### **💡 Programming Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### **🌐 Web Technologies (Frontend & Backend)**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### **🗄 Databases**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **☁️ Cloud, DevOps & OS**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### **🛠 Data Science & ML Ecosystem**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-<!-- Add other data-related tools like Matplotlib, Seaborn, Spark, Hadoop if you use them -->
-
----
-
-## **📈 My GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Praveen's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="Praveen's GitHub Streak" />
-</div>
-
-<!-- Replace YOUR_USERNAME with your actual GitHub username! -->
-
----
-
-## **🌟 Featured Projects**
-
-Currently, I'm focused on [mention a specific area, e.g., building a scalable data pipeline, developing a full-stack e-commerce app, exploring LLMs].
-Here are some highlights from my work:
-
--   ### **Project One Name**
-    -   Description: A brief, exciting description of the project (e.g., "A real-time sentiment analysis tool using Python and Flask.").
-    -   Technologies Used: `Python` `Pandas` `React` `Node.js`
-    -   [🔗 Live Demo](https://your-project-demo-link.com) | [💻 GitHub Repo](https://github.com/YOUR_USERNAME/your-project-one-repo)
-
--   ### **Project Two Name**
-    -   Description: Another cool project (e.g., "Developed a data cleaning and visualization pipeline for public datasets.").
-    -   Technologies Used: `Python` `NumPy` `Scikit-Learn` `SQL`
-    -   [💻 GitHub Repo](https://github.com/YOUR_USERNAME/your-project-two-repo)
-
----
-
-## **📬 Connect With Me**
-
-Let's connect and build something amazing together! Feel free to reach out.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-praveen-kumar-6223aa280)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Praveenk_23)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-### **🎯 Always Learning, Always Building 🚀**
-
-Thanks for visiting my profile! Don't hesitate to star some repos if you find them interesting. ✨

@@ -1,18 +1,15 @@
 # **👋 Hey, I'm K Praveen Kumar!**  
 ### **Data Enthusiast | Full Stack Developer | Exploring AI/Big Data Engineering 🚀**  
 
+
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" height="150%" align="right" />
+
 📊 Exploring ML, Data Cleaning & Big Data Processing
 🔍 Solving DSA problems & working on real-world projects
 ⚙️ Linux power user, automating workflows & system management
 🎯 Focused on building scalable & high-performance applications
 🎮 Love tech, anime, and always up for learning new things!
-
-markdown
-Copy
-Edit
-
-<div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" height="150%" align="right" />
 
 </div>
 

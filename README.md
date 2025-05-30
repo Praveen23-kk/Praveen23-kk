@@ -1,182 +1,301 @@
+```
+██████╗ ██████╗  █████╗ ██╗   ██╗███████╗███████╗███╗   ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
+██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔════╝██╔════╝████╗  ██║    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+██████╔╝██████╔╝███████║██║   ██║█████╗  █████╗  ██╔██╗ ██║    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+██╔═══╝ ██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██║╚██╗██║    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+██║     ██║  ██║██║  ██║ ╚████╔╝ ███████╗███████╗██║ ╚████║    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═══╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjE1NHYxNTI3bHkwcTFqZHd3Y3E0b29xZzYxZGR4Y2g2NDNqNjQmaXAyZGN0PXMmcGF0aD1naWZzL2Zhdm9yaXRlX2dpZnMvY29tbWFuZF9saW5lX2dpZi5naWYmY3Q9cw/wT0Y5GzS6Jc9vO6V4E/giphy.gif" width="100" />
-  <h1><samp>_ACCESS GRANTED_</samp></h1>
-  <h2><samp>K. PRAVEEN KUMAR // SYSTEM.EXE</samp></h2>
-  <pre>
-  -------------------------------------------------------------
-  :: B O O T I N G   U P   S Y S T E M   M O D U L E S ::
-  -------------------------------------------------------------
-  </pre>
-  <p><samp>// DATA_ENTHUSIAST_MODE_ON // FULL_STACK_DEV_ACTIVE // AI_BIG_DATA_EXPLORER_INITIATED //</samp></p>
-  <br>
+
+![Retro Wave](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
+
+**⚡ WELCOME TO THE DIGITAL REALM ⚡**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=20&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%3E+SYSTEM+ONLINE...;%3E+LOADING+PROFILE...;%3E+DATA+ENTHUSIAST+%7C+CODE+WIZARD;%3E+REALITY.EXE+STOPPED+WORKING...)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
+## 🕹️ **SYSTEM INFORMATION**
+
+```dos
+C:\Users\PraveenKumar> whoami
+╔══════════════════════════════════════════════════════════════╗
+║                        USER PROFILE v2.1                    ║
+║══════════════════════════════════════════════════════════════║
+║  NAME:           K PRAVEEN KUMAR                             ║
+║  ROLE:           FULL STACK DEVELOPER & DATA ALCHEMIST      ║
+║  LOCATION:       INDIA.exe                                   ║
+║  STATUS:         CODING IN PROGRESS...                       ║
+║  UPTIME:         24/7 LEARNING MODE                         ║
+║  MOOD:           CAFFEINATED && MOTIVATED                    ║
+║══════════════════════════════════════════════════════════════║
+║  CURRENT QUEST:  BUILDING THE FUTURE WITH CODE              ║
+║  SPECIAL POWER:  TURNING COFFEE INTO ALGORITHMS             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&style=plastic&color=ff00ff&label=VISITORS+LOGGED)
+![Coding](https://img.shields.io/badge/STATUS-CODING_IN_PROGRESS-00ff00?style=plastic&logo=windows-terminal)
+![Coffee](https://img.shields.io/badge/COFFEE-LOADING...-brown?style=plastic&logo=buy-me-a-coffee)
+
 </div>
 
 ---
 
-## <samp>C:\> ABOUT_PRAVEEN.SYS: Loading Personal Log...</samp>
+## 💾 **SYSTEM SPECS**
 
-<pre>
-<samp>
->> STATUS: Online and ready to compute. Current objective: optimize and innovate.
+```batch
+C:\PraveenKumar\Skills> dir /s
 
-   - 📊 DATA BYTE CRUNCHER: Deciphering complex data streams, implementing 
-     efficent Data Cleaning protocols, and optimizing Big Data Processing units.
-   - 💻 CODE ASSEMBLER: Constructing full-stack applications from the ground up, 
-     debugging algorithms with relentless DSA problem-solving.
-   - 🐧 OS COMMANDER: Operating with root access on Linux systems, automating 
-     workflows, and performing critical system management.
-   - 📈 PERFORMANCE TUNER: Engineering scalable and high-performance applications, 
-     aiming for maximum clock cycles.
-   - 🎮 OFFLINE PROTOCOLS: When not compiling, I'm exploring new tech, 
-     diving into pixelated anime universes, and always installing new knowledge patches!
-</samp>
-</pre>
+Directory of C:\SKILLS\PROGRAMMING
+───────────────────────────────────────────────────────────────
+    PYTHON.EXE        ████████████████████ 95%  [EXPERT]
+    JAVASCRIPT.BAT    ████████████████     80%  [ADVANCED]
+    CPP.COM           ████████████████     82%  [ADVANCED]
+    JAVA.CLASS        ███████████████      75%  [ADVANCED]
+    SQL.DB            ███████████████      78%  [ADVANCED]
 
----
+Directory of C:\SKILLS\FRAMEWORKS
+───────────────────────────────────────────────────────────────
+    REACT.JSX         ████████████████     85%  [ADVANCED]
+    NODE.JS           ███████████████      75%  [ADVANCED]
+    EXPRESS.MJS       ███████████████      76%  [ADVANCED]
 
-## <samp>C:\> TOOLKIT_V1.0: Hardware & Software Inventory</samp>
+Directory of C:\SKILLS\DATABASES
+───────────────────────────────────────────────────────────────
+    MYSQL.SQL         ████████████████     80%  [ADVANCED]
+    POSTGRESQL.DB     ██████████████       70%  [INTERMEDIATE]
+    MONGODB.JSON      ██████████████       72%  [INTERMEDIATE]
 
-My core components and installed programs for digital exploration:
-
-### <samp>--- PROGRAMMING_LANGUAGES [CORE] ---</samp>
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### <samp>--- WEB_DEVELOPMENT [INTERFACE] ---</samp>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-<!-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) -->
-
-### <samp>--- DATA_SYSTEMS [STORAGE & RETRIEVAL] ---</samp>
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
-
-### <samp>--- DEVOPS & OS [INFRASTRUCTURE] ---</samp>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<!-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
-
-### <samp>--- DATA_SCIENCE & ML [ANALYTICS_ENGINE] ---</samp>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) -->
-<!-- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) -->
+Directory of C:\SKILLS\DATA_SCIENCE
+───────────────────────────────────────────────────────────────
+    PANDAS.PY         ████████████████████ 90%  [EXPERT]
+    NUMPY.PY          ████████████████████ 88%  [EXPERT]
+    SKLEARN.ML        ███████████████      78%  [ADVANCED]
+    TENSORFLOW.AI     ██████████████       68%  [INTERMEDIATE]
+```
 
 ---
 
-## <samp>C:\> PERFORMANCE_MONITOR.DAT: Real-Time Telemetry</samp>
-
-Analyzing system activity logs. Keep those commit streaks going!
+## 📺 **RETRO TERMINAL OUTPUT**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF00&icon_color=00FFFF" alt="Praveen's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&dates=DD%2FMM%2FYYYY" alt="Praveen's GitHub Streak" />
-</div>
 
-<!-- Replace YOUR_USERNAME with your actual GitHub username! -->
+```ascii
+   ╔═════════════════════════════════════════════════════════════╗
+   ║  ░░░░░░░░░░░░░ PRAVEEN'S CODING STATION ░░░░░░░░░░░░░        ║
+   ║                                                             ║
+   ║  ┌─────────────────────────────────────────────────────┐    ║
+   ║  │ > Initializing awesome projects...                  │    ║
+   ║  │ > Loading creative solutions...                     │    ║
+   ║  │ > Compiling dreams into reality...                  │    ║
+   ║  │ > Status: Ready to collaborate! ✓                   │    ║
+   ║  └─────────────────────────────────────────────────────┘    ║
+   ║                                                             ║
+   ║              [PRESS ANY KEY TO CONTINUE]                    ║
+   ╚═════════════════════════════════════════════════════════════╝
+```
 
----
-
-## <samp>C:\> PROJECTS.EXE: Executable Programs</samp>
-
-My compiled creations and ongoing development projects. Type `RUN [project_name]` for details.
-
--   ### <samp>_PROGRAM_NAME_ONE.EXE_ (e.g., A Scalable Data Ingestion System)</samp>
-    <pre>
-    <samp>
-    >> DESCRIPTION: Engineered a robust data ingestion pipeline capable of processing
-       gigabytes of data in real-time, preparing it for complex analytics.
-    >> COMPONENTS: Python, Apache Kafka, Apache Spark, PostgreSQL, Docker
-    </samp>
-    </pre>
-    [<samp>RUN DEMO</samp>](https://your-project-demo-link.com) | [<samp>SOURCE CODE</samp>](https://github.com/YOUR_USERNAME/your-project-one-repo)
-
--   ### <samp>_PROGRAM_NAME_TWO.EXE_ (e.g., Retro-Style Arcade Game Emulator)</samp>
-    <pre>
-    <samp>
-    >> DESCRIPTION: Developed a full-stack web application with a pixel-perfect 
-       UI, simulating classic arcade gaming experiences.
-    >> COMPONENTS: JavaScript, React, Node.js, MySQL
-    </samp>
-    </pre>
-    [<samp>RUN DEMO</samp>](https://your-project-demo-link.com) | [<samp>SOURCE CODE</samp>](https://github.com/YOUR_USERNAME/your-project-two-repo)
-
--   ### <samp>_PROGRAM_NAME_THREE.EXE_ (e.g., AI-Powered Recommendation Engine)</samp>
-    <pre>
-    <samp>
-    >> DESCRIPTION: Built a machine learning model to provide personalized 
-       content recommendations, improving user engagement metrics.
-    >> COMPONENTS: Python, Scikit-Learn, Pandas, NumPy, Jupyter
-    </samp>
-    </pre>
-    [<samp>SOURCE CODE</samp>](https://github.com/YOUR_USERNAME/your-project-three-repo)
-
----
-
-## <samp>C:\> CONNECTIVITY_MANAGER.NET: Establishing Link...</samp>
-
-Want to exchange data packets or collaborate on a new build? Pinging my frequencies...
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-praveen-kumar-6223aa280)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Praveenk_23)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-<!-- [<samp>PERSONAL_WEBSITE.HTML</samp>](https://your-personal-website.com) -->
-
----
-
-<div align="center">
-  <pre>
-  -------------------------------------------------------------
-  :: S Y S T E M   S H U T T I N G   D O W N ::
-  -------------------------------------------------------------
-  </pre>
-  <h3><samp>_ERROR 404: Motivation not found. Still learning, still building._</samp></h3>
-  <p><samp>C:\>_ END OF TRANSMISSION // Thanks for stopping by!</samp></p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZvdGdwYjQ1eGE2bmV6aDFjZm5wM2p2ZTF3NTV3M21mNG1xN25tdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jQy47H66Wn3lO/giphy.gif" width="70" />
 </div>
 
 ---
 
-### **Retro-Style Breakdown & How to Use:**
+## 🎮 **GITHUB STATS [ARCADE MODE]**
 
-1.  **`<samp>` Tags:** These are HTML `<samp>` tags (for "sample output") which GitHub renders in a monospace, often retro-looking font. This is crucial for the terminal feel.
-2.  **`<pre>` Tags:** Used for preformatted text, great for ASCII art (like the separators) and ensuring your simulated command-line output maintains its formatting.
-3.  **Terminal Aesthetics:**
-    *   **Header GIF:** A classic glitchy/typing GIF to set the mood immediately.
-    *   **Command Prompts:** `C:\>` and `>>` simulate typical DOS/terminal prompts.
-    *   **"System" Language:** Words like `SYSTEM.EXE`, `BOOTING UP`, `ACCESS GRANTED`, `LOADING`, `CRUNCHER`, `ASSEMBLER`, `COMMANDER`, `TUNER`, `COMPONENTS`, `TELEMETRY`, `PROGRAMS`, `COMPONENTS`, `DEBUGGING`, `PROTOCOL`, `DATAGRAM`.
-    *   **Labels:** Using `_PROGRAM_NAME_ONE.EXE_` and sections like `--- PROGRAMMING_LANGUAGES [CORE] ---` feels like file paths or old menu systems.
-4.  **GitHub Stats Theme:** I've changed the `theme` to `dark` and specified `title_color=00FF00` (bright green) and `icon_color=00FFFF` (cyan) to mimic classic CRT monitor colors.
-5.  **Project Descriptions:** They're now nested within `<pre><samp>` tags to keep the terminal look.
-6.  **"Under Construction" / Retro Footer:** The "ERROR 404: Motivation not found" is a playful nod to old web pages and a classic programming joke, while still conveying a positive message. A "System Shutting Down" sequence completes the theme.
-7.  **Button/Link Styling:** Changed link text to `<samp>RUN DEMO</samp>` or `<samp>SOURCE CODE</samp>` to blend with the retro theme.
+<div align="center">
 
-**To deploy this retro masterpiece:**
+### 🕹️ **PLAYER STATISTICS**
 
-1.  **Copy the entire markdown block.**
-2.  **Paste it** into your GitHub profile's `README.md` file.
-3.  **Crucially, customize all placeholders:**
-    *   **`YOUR_USERNAME`**: Replace this with your actual GitHub username for the stats and project links.
-    *   **`your.email@example.com`**: Update this with your real email.
-    *   **Project Details**: Fill in **actual project names, descriptions, and technologies**. Make them sound as "retro-engineered" or "optimized" as you can while being accurate. Add real demo/repo links.
-    *   **Optional Badges**: Uncomment any additional tech badges you use (e.g., MongoDB, Express.js, AWS, TensorFlow, Spark) and replace them with your actual tech.
-4.  **Ensure the GitHub Contribution Snake** is set up (if you want it).
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,000000,1a0033&title_color=ff00ff&text_color=00ffff&icon_color=ff0080" alt="Retro Stats"/>
 
-This README will make your profile incredibly unique and memorable, reflecting your creativity and ability to think outside the literal box! Get ready for some `C:\>_ awesome` reactions!
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=neon&hide_border=true&background=0D1117&stroke=ff00ff&ring=00ffff&fire=ff0080" alt="Streak Stats"/>
+
+### 🎯 **SKILL TREE UNLOCKED**
+
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=synthwave&hide_border=true&bg_color=0,000000,1a0033&title_color=ff00ff&text_color=00ffff" alt="Languages"/>
+
+</div>
+
+---
+
+## 💿 **CURRENT PROJECTS [NOW PLAYING]**
+
+```ini
+[PROJECT_PLAYLIST]
+═══════════════════════════════════════════════════════════════
+
+▶️ Track 01: AI_DATA_ANALYTICS.wav                    ████████░░ 80%
+   Genre: Machine Learning | BPM: Fast | Status: In Progress
+   
+▶️ Track 02: FULLSTACK_ECOMMERCE.mp3                  ██████░░░░ 60%
+   Genre: Web Development | BPM: Medium | Status: Coding
+   
+▶️ Track 03: BIG_DATA_ENGINE.exe                      ███████░░░ 70%
+   Genre: Data Engineering | BPM: Heavy | Status: Testing
+   
+▶️ Track 04: RETRO_PORTFOLIO.html                     ██████████ 100%
+   Genre: Frontend Magic | BPM: Groovy | Status: Complete
+```
+
+---
+
+## 🎭 **SOCIAL NETWORK [BBS STYLE]**
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🌐 CONNECT TO MY BBS 🌐                  ║
+║══════════════════════════════════════════════════════════════║
+║                                                              ║
+║  📞 DIAL-UP CONNECTIONS AVAILABLE:                          ║
+║                                                              ║
+║  [1] LinkedIn BBS    - Professional Network                 ║
+║  [2] Twitter Feed    - Daily Code Thoughts                  ║
+║  [3] Email Terminal  - Direct Communication                 ║
+║  [4] Portfolio Site  - Visual Showcase                      ║
+║                                                              ║
+║  Select your connection [1-4]:                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+**🔗 LINKEDIN**
+<br>
+[![LinkedIn](https://img.shields.io/badge/CONNECT-00ff00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/k-praveen-kumar-6223aa280)
+
+</td>
+<td align="center">
+
+**🐦 TWITTER**
+<br>
+[![Twitter](https://img.shields.io/badge/FOLLOW-ff00ff?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/Praveenk_23)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**📧 EMAIL**
+<br>
+[![Email](https://img.shields.io/badge/MESSAGE-00ffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your-email@example.com)
+
+</td>
+<td align="center">
+
+**🌐 PORTFOLIO**
+<br>
+[![Portfolio](https://img.shields.io/badge/VISIT-ff8800?style=for-the-badge&logo=google-chrome&logoColor=black)](https://your-portfolio.com)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎨 **RETRO ACTIVITY MONITOR**
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    CONTRIBUTION MATRIX                      │
+├─────────────────────────────────────────────────────────────┤
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │
+│  ▓█▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓  │
+│  ▓▓█▓▓▓█▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓  │
+│  ▓▓▓█▓▓▓█▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓  │
+│  ▓▓▓▓█▓▓▓█▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█  │
+│  ▓▓▓▓▓█▓▓▓█▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓▓█▓▓▓  │
+│  ▓▓▓▓▓▓█▓▓▓█▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓█▓▓▓▓█▓▓▓█▓▓▓▓█▓▓  │
+└─────────────────────────────────────────────────────────────┘
+     Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov
+```
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=000000&color=ff00ff&line=00ffff&point=ff0080&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 **ACHIEVEMENT UNLOCKED**
+
+<div align="center">
+
+```
+    ╔════════════════════════════════════════════════════════╗
+    ║  🏆 LEGENDARY CODER ACHIEVEMENTS 🏆                   ║
+    ╠════════════════════════════════════════════════════════╣
+    ║                                                        ║
+    ║  🥇 Code Warrior          ████████████████████ 100%   ║
+    ║  🥈 Data Wizard           ███████████████████░ 95%    ║
+    ║  🥉 Algorithm Master      ██████████████████░░ 90%    ║
+    ║  🎯 Bug Slayer           █████████████████░░░ 85%     ║
+    ║  ⚡ Speed Coder          ████████████████░░░░ 80%     ║
+    ║  🧠 Logic Genius         ███████████████░░░░░ 75%     ║
+    ║                                                        ║
+    ╚════════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+
+</div>
+
+---
+
+## 📟 **SYSTEM MESSAGE LOG**
+
+```log
+[1985-05-30 12:00:00] SYSTEM: Welcome to PraveenOS v3.14
+[1985-05-30 12:00:01] INFO: Initializing creative mode...
+[1985-05-30 12:00:02] SUCCESS: All systems operational
+[1985-05-30 12:00:03] STATUS: Ready for collaboration
+[1985-05-30 12:00:04] MOTTO: "Code today, deploy tomorrow!"
+
+> AVAILABLE FUNCTIONS:
+  - collaborate()     // Let's build something awesome!
+  - debug_together()  // Two heads are better than one
+  - share_knowledge() // Learning never stops
+  - create_magic()    // Where ideas become reality
+
+> CURRENT_MOOD: 😎 Ready to rock the digital world!
+> COFFEE_LEVEL: ████████████████████ 100% FULLY CHARGED
+```
+
+---
+
+<div align="center">
+
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░  ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗            ░
+░  ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝            ░
+░     ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗            ░
+░     ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║            ░
+░     ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║            ░
+░     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝            ░
+░                                                                  ░
+░            FOR VISITING MY DIGITAL ARCADE!                       ░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+**✨ "IN A WORLD FULL OF ALGORITHMS, BE THE EXCEPTION" ✨**
+
+![Retro End](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+*System Shutdown... See you in the next boot! 🚀*
+
+**⚡ GAME OVER - INSERT COIN TO CONTINUE ⚡**
+
+</div>

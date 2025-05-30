@@ -1,155 +1,362 @@
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                          ║
+║    ██████╗ ███████╗██████╗     ██████╗ ███████╗ █████╗ ██████╗                         ║
+║    ██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██╔════╝██╔══██╗██╔══██╗                        ║
+║    ██████╔╝█████╗  ██║  ██║    ██║  ██║█████╗  ███████║██║  ██║                        ║
+║    ██╔══██╗██╔══╝  ██║  ██║    ██║  ██║██╔══╝  ██╔══██║██║  ██║                        ║
+║    ██║  ██║███████╗██████╔╝    ██████╔╝███████╗██║  ██║██████╔╝                        ║
+║    ╚═╝  ╚═╝╚══════╝╚═════╝     ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝                         ║
+║                                                                                          ║
+║              ██████╗ ███████╗██████╗ ███████╗███╗   ███╗██████╗ ████████╗██╗ ██████╗ ███╗   ██╗    ║
+║              ██╔══██╗██╔════╝██╔══██╗██╔════╝████╗ ████║██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║    ║
+║              ██████╔╝█████╗  ██║  ██║█████╗  ██╔████╔██║██████╔╝   ██║   ██║██║   ██║██╔██╗ ██║    ║
+║              ██╔══██╗██╔══╝  ██║  ██║██╔══╝  ██║╚██╔╝██║██╔═══╝    ██║   ██║██║   ██║██║╚██╗██║    ║
+║              ██║  ██║███████╗██████╔╝███████╗██║ ╚═╝ ██║██║        ██║   ██║╚██████╔╝██║ ╚████║    ║
+║              ╚═╝  ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝        ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ║
+║                                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHR2OWV5cml1OWpveGh6b2p4NnN6czBqMnh1cmFscXZoc3czajZqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0MYKzN4hO5s6k4aQ/giphy.gif" width="100" />
-  <h1>🤠 Howdy, Partner! Welcome to the K. Praveen Kumar Homestead! 🤠</h1>
-  <h3><i>// The Frontier Engineer // Data Prospector // Full Stack Outlaw //</i></h3>
-  <br>
-  <p><b>A wanderer of the digital plains, always seeking new challenges and forging paths in the AI & Big Data territories.</b></p>
+
+**🤠 WELCOME TO THE DIGITAL FRONTIER 🤠**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=22&duration=4000&pause=1500&color=D2691E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Howdy%2C+Partner!+I'm+K+Praveen+Kumar;Code+Slinger+%7C+Data+Wrangler+%7C+Bug+Hunter;Riding+the+Digital+Frontier...;There's+Always+Another+Algorithm+to+Tame)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" alt="Cowboy Hat"/> **DIGITAL OUTLAW** <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" alt="Cowboy Hat"/>
+
 </div>
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+## 🏜️ **WANTED DEAD OR ALIVE** 🏜️
 
-***
-
-## 📜 **The Wanderer's Journal: My Code of Conduct**
-
-<pre>
-<samp>
-// Day [CURRENT_DATE]: Another sun rises on the digital frontier.
-
-   - 📊  **DATA PROSPECTOR:** Always digging deep into data mines, cleaning the dust off raw information, 
-       and orchestrating Big Data stampedes across the plains.
-   - 💻  **CODE GUNSLINGER:** Sharpshooting solutions for full-stack challenges, perfecting algorithms 
-       with every DSA showdown.
-   - 🐧  **FRONTIER HORSEMAN:** Riding my trusty Linux steed, automating chores, and managing system ranches.
-   - 📈  **FORT BUILDER:** Focused on constructing sturdy, high-performance applications that stand tall
-       against any digital storm.
-   - 🎲  **OFF-DUTY TRAITS:** When the coding dust settles, I'm exploring new tech trails, enjoying the latest
-       anime sagas, and always learning a new trick or two.
-</samp>
-</pre>
-
-***
-
-## 🔫 **My Six-Shooters & Prospector's Gear**
-
-The tools I carry to navigate and build across the vast digital landscape:
-
-### **Languages of the Land**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### **Riding the Web Trails (Front & Back)**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-<!-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) -->
-
-### **Strongboxes for Data (Databases)**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
-
-### **Frontier Utility Tools (DevOps & OS)**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<!-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
-
-### **Gold Panning & Analytics (Data Science & ML)**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) -->
-<!-- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) -->
-
-***
-
-## 💰 **My Bounty Board (GitHub Stats)**
+```
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                   ║
+║                                    WANTED                                         ║
+║                              DEAD OR ALIVE                                       ║
+║                                                                                   ║
+║  ┌─────────────────────────────────────────────────────────────────────────┐    ║
+║  │                                                                         │    ║
+║  │    🤠                    K PRAVEEN KUMAR                       🤠       │    ║
+║  │                                                                         │    ║
+║  │        NOTORIOUS FOR: Code Slinging & Data Wrangling                    │    ║
+║  │        LAST SEEN: Building Full Stack Applications                      │    ║
+║  │        WEAPONS: Python, JavaScript, React, Machine Learning             │    ║
+║  │        HIDEOUT: India Territory                                         │    ║
+║  │        BOUNTY: One Hell of a Developer                                  │    ║
+║  │                                                                         │    ║
+║  │        WARNING: Extremely dangerous with algorithms                     │    ║
+║  │                 Known to solve complex problems                         │    ║
+║  │                                                                         │    ║
+║  └─────────────────────────────────────────────────────────────────────────┘    ║
+║                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=solarized-dark&hide_border=true&count_private=true&title_color=D68910&icon_color=E4B52C" alt="Praveen's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=solarized-dark&hide_border=true&dates=DD%2FMM%2FYYYY" alt="Praveen's GitHub Streak" />
-</div>
 
-<!-- Replace YOUR_USERNAME with your actual GitHub username! -->
+![Visitors](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=8B4513&label=BOUNTY+HUNTERS+TRACKING)
+![Status](https://img.shields.io/badge/STATUS-CODING_ON_THE_RANGE-228B22?style=flat-square&logo=campfire)
+![Coffee](https://img.shields.io/badge/FUEL-COFFEE_%26_WHISKEY-8B4513?style=flat-square&logo=coffee)
 
-***
-
-## 🗺️ **Claimed Territories & Forged Paths (Featured Projects)**
-
-Here are some of the settlements I've built and the trails I've blazed.
-
--   ### **"The Data Refinery" (e.g., A Scalable Data Ingestion System)**
-    -   **The Tale:** Built a robust system for bringing in raw data from the wild, cleaning it up, and storing it safely, ready for prospecting.
-    -   **Tools Employed:** `Python` `Apache Kafka` `Apache Spark` `PostgreSQL` `Docker`
-    -   [<kbd>EXPLORE THE TERRAIN</kbd>](https://your-project-demo-link.com) | [<kbd>FORGE AHEAD (GitHub Repo)</kbd>](https://github.com/YOUR_USERNAME/your-project-one-repo)
-
--   ### **"The Outlaw's Ledger" (e.g., A Full-Stack Transaction Tracker)**
-    -   **The Tale:** A full-stack application designed to track every coin, every trade, and every bounty, ensuring no digital outlaw goes unnoticed.
-    -   **Tools Employed:** `JavaScript` `React` `Node.js` `MySQL`
-    -   [<kbd>EXPLORE THE TERRAIN</kbd>](https://your-project-demo-link.com) | [<kbd>FORGE AHEAD (GitHub Repo)</kbd>](https://github.com/YOUR_USERNAME/your-project-two-repo)
-
--   ### **"The Predictive Prospector" (e.g., AI-Powered Gold Vein Locator)**
-    -   **The Tale:** Developed an AI model that predicts the most promising locations for new data 'gold veins,' based on historical mining patterns.
-    -   **Tools Employed:** `Python` `Scikit-Learn` `Pandas` `NumPy` `Jupyter`
-    -   [<kbd>FORGE AHEAD (GitHub Repo)</kbd>](https://github.com/YOUR_USERNAME/your-project-three-repo)
-
-***
-
-## ✉️ **Sending a Telegraph (Connect With Me)**
-
-Looking for a new member for your posse, or just want to discuss the future of the digital frontier? Send a wire!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-praveen-kumar-6223aa280)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Praveenk_23)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-<!-- [<kbd>VISIT MY RANCH (Personal Website)</kbd>](https://your-personal-website.com) -->
-
-***
-
-<div align="center">
-  <h3>🌅 **The Sun Sets... but the Code Keeps Riding On!** 🐴</h3>
-  <p>Thanks for visiting my corner of the frontier. Happy trails, and may your code compile true! ✨</p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pwa3Btd2N3czN0YTM2dG1hMGZrbjZqem5uZm9wYWpsMWZoeHNlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dUt44L8tq7rJ6D6pB9/giphy.gif" width="100" />
 </div>
 
 ---
 
-### **Red Dead Redemption Theme Breakdown:**
+## 🎯 **OUTLAW'S ARSENAL** 🎯
 
-1.  **Opening & Closing GIFs:** I've chosen GIFs that evoke the RDR atmosphere: a tumbleweed for arrival and a horse riding off into the sunset for departure.
-2.  **Wild West Language:**
-    *   **Titles:** "Howdy, Partner!", "Homestead", "Frontier Engineer", "Data Prospector", "Full Stack Outlaw".
-    *   **Sections:** "The Wanderer's Journal", "Code of Conduct", "Six-Shooters & Prospector's Gear", "Bounty Board", "Claimed Territories & Forged Paths", "Sending a Telegraph".
-    *   **Descriptions:** "Data Byte Cruncher" becomes "Data Prospector", "Solving DSA problems" becomes "DSA showdown", "Linux power user" becomes "Frontier Horseman", "Scalable applications" becomes "constructing sturdy, high-performance applications that stand tall".
-    *   **Actions:** "Digging deep," "cleaning the dust," "orchestrating stampedes," "sharpshooting solutions," "riding my trusty Linux steed," "automating chores," "managing system ranches," "constructing sturdy forts," "blazing trails," "sending a wire."
-3.  **`<samp>` and `<pre>` tags:** Used sparingly for the "Journal" section to give it a slightly rustic, old-paper feel, like a written entry.
-4.  **`<kbd>` tags for links:** Using `<kbd>` (keyboard input tag) makes the links look like old-school game buttons or physical input, e.g., `<kbd>EXPLORE THE TERRAIN</kbd>`.
-5.  **GitHub Stats Theme:** Changed to `theme=solarized-dark` which has a warmer, sepia-like tone, perfect for the RDR feel. I also tweaked `title_color` and `icon_color` to rusty oranges and yellows.
-6.  **Horizontal Rule:** Using `***` instead of `---` for a slightly more rugged, less perfectly straight line, like a wooden sign or fence post.
-7.  **Subtle Emojis:** Kept them thematic (`🤠`, `🐴`, `📜`, `🔫`, `💰`, `🗺️`, `✉️`, `🌅`).
+### 🔫 **MAIN WEAPONS** (Programming Languages)
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  🐍 PYTHON REVOLVER          ████████████████████ 95%  [LEGENDARY]         │
+│  ⚡ JAVASCRIPT RIFLE         ████████████████     85%  [EXPERT]           │
+│  ⚔️  C++ WINCHESTER          ████████████████     82%  [EXPERT]           │
+│  🗡️  JAVA SHOTGUN            ███████████████      78%  [EXPERT]           │
+│  🏹 SQL CROSSBOW             ███████████████      80%  [EXPERT]           │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-**To get this up and running on your GitHub:**
+### 🛡️ **FRONTIER TOOLS** (Frameworks & Libraries)
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  ⚛️  REACT LASSO              ████████████████     85%  [EXPERT]           │
+│  🟢 NODE.JS HORSE            ███████████████      78%  [EXPERT]           │
+│  🌐 EXPRESS WAGON            ███████████████      76%  [EXPERT]           │
+│  🐼 PANDAS CATTLE            ████████████████████ 92%  [LEGENDARY]        │
+│  🔢 NUMPY DYNAMITE           ████████████████████ 90%  [LEGENDARY]        │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-1.  **Copy the entire markdown code.**
-2.  **Paste it** into your GitHub profile's `README.md` file (the one in the repository named after your GitHub username).
-3.  **Crucially, customize all placeholders:**
-    *   **`YOUR_USERNAME`**: Replace this with your actual GitHub username for the stats and project links.
-    *   **`your.email@example.com`**: Update this with your real email.
-    *   **`CURRENT_DATE`**: You can replace this with today's date or leave it as is.
-    *   **Project Details**: Fill in your **actual project names, detailed descriptions, and technologies**. Make them sound like "tales" of your "territories claimed" and "tools employed." Ensure the demo and repo links are real.
-    *   **Optional Badges**: Uncomment and add any other tech badges you use (MongoDB, Express.js, AWS, TensorFlow, Spark, etc.) and fit them into the appropriate "gear" section.
-4.  **Set up the GitHub Contribution Snake** if you haven't already, as it's included.
+### 🏰 **HIDEOUT STORAGE** (Databases)
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  🐬 MYSQL SALOON             ████████████████     82%  [EXPERT]           │
+│  🐘 POSTGRESQL BANK          ███████████████      75%  [ADVANCED]         │
+│  🍃 MONGODB GENERAL_STORE    ██████████████       72%  [ADVANCED]         │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-This README will not just be a profile; it'll be an immersive experience for anyone who visits, reflecting your unique style and passion! Go forth and conquer the digital frontier!
+---
+
+## 🎮 **GANG STATS & REPUTATION** 🎮
+
+<div align="center">
+
+### 🏆 **OUTLAW STATISTICS**
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=gruvbox&hide_border=true&bg_color=2F1B14&title_color=D2691E&text_color=F5DEB3&icon_color=8B4513" alt="Outlaw Stats"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=gruvbox&hide_border=true&background=2F1B14&stroke=D2691E&ring=8B4513&fire=FF4500" alt="Streak Stats"/>
+
+### 🎯 **MOST WANTED SKILLS**
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=gruvbox&hide_border=true&bg_color=2F1B14&title_color=D2691E&text_color=F5DEB3" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🏕️ **CURRENT BOUNTIES** (Active Projects)
+
+```
+════════════════════════════════════════════════════════════════════════════════
+                            📜 BOUNTY BOARD 📜
+════════════════════════════════════════════════════════════════════════════════
+
+🎯 HIGH PRIORITY BOUNTIES:
+────────────────────────────────────────────────────────────────────────────────
+[$$$] AI Data Rustling Operation           Status: [████████░░] 80% Complete
+      Gang: Python Bandits, TensorFlow Tribe
+      Last Seen: Training machine learning models in the digital desert
+      
+[$$$] Full Stack Cattle Drive              Status: [██████░░░░] 60% Complete  
+      Gang: React Rangers, Node.js Nomads
+      Last Seen: Building scalable web applications across the frontier
+      
+[$$$] Big Data Gold Rush                   Status: [███████░░░] 70% Complete
+      Gang: Apache Spark Outlaws, Pandas Posse  
+      Last Seen: Mining insights from massive datasets
+      
+[$] Portfolio Saloon Construction         Status: [██████████] 100% Complete
+    Gang: Frontend Gunslingers
+    Last Seen: Showcasing skills in the digital town square
+
+════════════════════════════════════════════════════════════════════════════════
+```
+
+---
+
+## 🏆 **ACHIEVEMENTS UNLOCKED** 🏆
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                           🏅 LEGENDARY ACHIEVEMENTS 🏅                        ║
+║═══════════════════════════════════════════════════════════════════════════════║
+║                                                                               ║
+║  🤠 CODE SLINGER           ████████████████████ Mastered                     ║
+║  🎯 BUG HUNTER             ████████████████████ Legendary                    ║
+║  🏇 ALGORITHM WRANGLER     ███████████████████░ Expert                       ║
+║  🔫 FULL STACK GUNSLINGER ████████████████████ Mastered                     ║
+║  📊 DATA SHERIFF           ████████████████████ Legendary                    ║
+║  🎲 PROBLEM SOLVER         ███████████████████░ Expert                       ║
+║  ☕ COFFEE CONNOISSEUR     ████████████████████ Maxed Out                    ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophy Case"/>
+
+</div>
+
+---
+
+## 🗺️ **TERRITORY MAP** (Contribution Activity)
+
+<div align="center">
+
+```
+                        🏜️ THE DIGITAL FRONTIER 🏜️
+    
+    N ↑
+      │   🌵                🏔️             🌵        🏕️
+   W ─┼─ E      🐎     🌵      🌄    🌵           🔥
+      │            🌵              🏔️                🌵
+    S ↓    🤠                 🏜️              🌵
+    
+    Legend: 🌵 Code Commits  🏔️ Major Projects  🔥 Hot Streaks  🐎 Daily Rides
+```
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=2F1B14&color=D2691E&line=8B4513&point=FF4500&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 📰 **DAILY FRONTIER GAZETTE** 📰
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                          THE DIGITAL FRONTIER TIMES                         ║
+║                              Est. 2025                                      ║
+║══════════════════════════════════════════════════════════════════════════════║
+║                                                                              ║
+║  🤠 LOCAL OUTLAW TAMES ANOTHER ALGORITHM                                     ║
+║     Praveen Kumar strikes again with innovative solutions                    ║
+║                                                                              ║
+║  💰 GOLD RUSH: New Data Mining Operation Discovered                         ║
+║     Machine Learning techniques yield impressive results                     ║
+║                                                                              ║
+║  🏆 SHERIFF'S NOTICE: Clean Code Bounty Claimed                            ║
+║     Best practices implemented across the territory                          ║
+║                                                                              ║
+║  📈 STOCK REPORT: Coding Skills Continue to Rise                           ║
+║     Full stack expertise reaches all-time high                              ║
+║                                                                              ║
+║  🎯 WANTED: Collaboration Partners for Next Big Heist                      ║
+║     Seeking fellow code slingers for exciting projects                      ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🏪 **SALOON CONNECTIONS** (Social Links)
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    🍺 THE CODE SLINGER SALOON 🍺              ║
+║═══════════════════════════════════════════════════════════════║
+║                                                               ║
+║  Welcome to the friendliest saloon in the digital west!      ║
+║  Pull up a chair and let's talk code over some whiskey       ║
+║                                                               ║
+║  🥃 What'll it be, partner?                                   ║
+║                                                               ║
+║  [1] 🤝 LinkedIn Telegraph    - Professional Business        ║
+║  [2] 🐦 Twitter Express       - Daily Code Thoughts          ║
+║  [3] 📧 Pony Express Mail     - Direct Messages              ║
+║  [4] 🌐 Portfolio Homestead   - Showcase Territory           ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🤝 LINKEDIN**<br>
+*Professional Network*
+<br><br>
+[![LinkedIn](https://img.shields.io/badge/CONNECT-8B4513?style=for-the-badge&logo=linkedin&logoColor=F5DEB3)](https://www.linkedin.com/in/k-praveen-kumar-6223aa280)
+
+</td>
+<td align="center" width="25%">
+
+**🐦 TWITTER**<br>
+*Daily Thoughts*
+<br><br>
+[![Twitter](https://img.shields.io/badge/FOLLOW-1E90FF?style=for-the-badge&logo=twitter&logoColor=F5DEB3)](https://x.com/Praveenk_23)
+
+</td>
+<td align="center" width="25%">
+
+**📧 EMAIL**<br>
+*Direct Line*
+<br><br>
+[![Email](https://img.shields.io/badge/MESSAGE-DC143C?style=for-the-badge&logo=gmail&logoColor=F5DEB3)](mailto:your-email@example.com)
+
+</td>
+<td align="center" width="25%">
+
+**🌐 PORTFOLIO**<br>
+*Territory Showcase*
+<br><br>
+[![Portfolio](https://img.shields.io/badge/VISIT-228B22?style=for-the-badge&logo=google-chrome&logoColor=F5DEB3)](https://your-portfolio.com)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎭 **CAMP FIRE STORIES** (Fun Facts)
+
+<div align="center">
+
+```
+              🔥
+            🔥🔥🔥
+          🔥🔥🔥🔥🔥
+           🪵🪵🪵
+        
+    Gather 'round the campfire, partner...
+    
+    🤠 "I reckon I can turn coffee into code faster than a quick-draw"
+    
+    🎯 "Been riding the digital range since the dawn of algorithms"
+    
+    🏇 "My horse might be slow, but my code compiles lightning fast"
+    
+    📚 "Always learning new tricks - you can't teach an old dog new 
+        tricks, but you sure can teach this cowboy new languages!"
+    
+    🎮 "Gaming isn't just a hobby, it's research for better UX!"
+```
+
+</div>
+
+---
+
+## 📊 **SHERIFF'S WEEKLY REPORT**
+
+<!--START_SECTION:waka-->
+```
+Last 7 Days on the Digital Frontier:
+────────────────────────────────────────────────────────────────
+Python       8 hrs 42 mins   ████████████▓░░░░   50.23 %  🐍
+JavaScript   3 hrs 15 mins   ████▓░░░░░░░░░░░░   18.79 %  ⚡
+React        2 hrs 30 mins   ███▓░░░░░░░░░░░░░   14.45 %  ⚛️
+SQL          1 hr 25 mins    ██░░░░░░░░░░░░░░░   08.22 %  🗃️
+Other        1 hr 23 mins    ██░░░░░░░░░░░░░░░   08.31 %  🔧
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║  🌅                    SUNSET ON THE DIGITAL RANGE                    🌅     ║
+║                                                                               ║
+║           🤠  "There's always another algorithm to wrangle"  🤠              ║
+║                                                                               ║
+║              Thanks for visiting my corner of the frontier!                   ║
+║                 Don't be a stranger now, you hear?                           ║
+║                                                                               ║
+║  🏇                  Happy Trails, Partner!                     🏇          ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Cowboy Goodbye"/>
+
+**🎯 "Code Hard, Debug Harder, Deploy Like a Legend" 🎯**
+
+*~ K Praveen Kumar, Digital Frontier Code Slinger ~*
+
+<sub>🌵 Made with ❤️ and plenty of ☕ around the campfire 🔥</sub>
+
+**⭐ Don't forget to star my repositories if you found 'em useful, partner! ⭐**
+
+</div>

@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" height="150%" align="right" />
+<img src="https://4kwallpapers.com/images/wallpapers/the-lion-king-2560x1440-17403.jpg" width="25%" height="150%" align="right" />
 
 ```
 📊 Exploring ML, Data Cleaning & Big Data Processing

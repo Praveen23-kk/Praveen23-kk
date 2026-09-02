@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/221/221899.gif" width="450" alt="Animated GIF" />
+  <img src="./assests/221899.gif" width="450" alt="Animation">
 </p>
 
 # 👋 Hey, I'm K Praveen Kumar!

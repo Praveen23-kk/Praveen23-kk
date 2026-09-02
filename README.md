@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://media1.tenor.com/m/BJZIfaGUdv8AAAAd/https://giffiles.alphacoders.com/221/221899.gif" width="450" />
-</div>
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/221/221899.gif" width="450" alt="Animated GIF" />
+</p>
 
 # 👋 Hey, I'm K Praveen Kumar!
 

@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media1.tenor.com/m/BJZIfaGUdv8AAAAd/god-of-war-god-of-war-ragnarok.gif" width="450" />
+</div>
+
 # 👋 Hey, I'm K Praveen Kumar!
 
 <div align="center">

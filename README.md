@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="./assests/221899.gif" width="450" alt="Animation">
-</p>
 
 # 👋 Hey, I'm K Praveen Kumar!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Enthusiast+%7C+Full+Stack+Developer;Exploring+AI%2FBig+Data+Engineering;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="./assests/221899.gif" width="450" alt="Animation">
+</p>
+
 
 <div align="center">
   <img src="https://static.wikia.nocookie.net/anicrossbr/images/a/a8/Vergil_dmc.jpg/revision/latest/scale-to-width-down/340?cb=20160828214614&path-prefix=pt-br" width="200" height="200" style="border-radius: 50%;" />

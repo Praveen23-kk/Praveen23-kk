@@ -88,7 +88,7 @@ learning: Big Data Processing, MLOps, Cloud Architecture
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Praveen23-kk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://media1.tenor.com/m/v0XgLiGrbrwAAAAd/god-of-war-kratos.gif" />
 <img height="165" src="https://streak-stats.demolab.com/?user=Praveen23-kk&theme=tokyonight&hide_border=true" />
 
 </div>

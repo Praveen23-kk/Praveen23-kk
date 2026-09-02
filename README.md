@@ -119,11 +119,12 @@ learning: Big Data Processing, MLOps, Cloud Architecture
 
 <div align="center">
   
+
 ### 💡 "Always Learning, Always Building" 🚀
-
+ 
 *Passionate about creating technology that makes a difference. Let's connect and build something amazing together!* 🔥
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+ 
+<img src="https://komarev.com/ghpvc/?username=Praveen23-kk&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
 

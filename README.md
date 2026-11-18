@@ -113,8 +113,14 @@ learning: Big Data Processing, MLOps, Cloud Architecture
 
 ## 🎯 Featured Projects
 
-> *Coming Soon - Currently working on some exciting projects that showcase the intersection of data engineering, ML, and full-stack development!*
+- ✈️ **[Airline Sentiment Analysis](https://github.com/Praveen23-kk/Airline-Sentiment-Analysis_23)**: End-to-end NLP analysis of airline customer tweets using word clouds and machine learning
+- 💊 **[Medication Adherence Risk](https://github.com/Praveen23-kk/AI-4-Medication-Adherence-Risk)**: Explainable ML system that identifies patients at risk of medication non-adherence
+- 🎮 **[BGMI Pose Estimation Dataset](https://github.com/Praveen23-kk/BGMI_Project_PIVAGA)**: Custom keypoint annotation dataset for human pose estimation in mobile gaming (computer vision)
+- 🤖 **[BidForge AI](https://github.com/Praveen23-kk/BidForge_OpenAI-x-outskill-hackthon)**: AI-powered RFP and bid automation for sales proposals and compliance checks (OpenAI x Outskill hackathon)
+- 🔥 **[Algerian Forest Fire Predictor](https://github.com/Praveen23-kk/Algerian_Fire_Prediction_Flask_app-End-to-End-ML-)**: End-to-end ML Flask web app that predicts the Fire Weather Index (FWI)
+- 🛡️ **[Federated Attack Simulation & Intrusion Detection](https://github.com/Praveen23-kk/Attack_Simulation_Fedrated_learning_Shap_plot-Automation-)**: Automated federated learning attack simulation with SHAP-explained intrusion detection on the ECU IoHT dataset
 
+> *More exciting projects coming soon. Find everything else on my [repositories page](https://github.com/Praveen23-kk?tab=repositories).*
 ---
 
 ## 📫 Let's Connect!
